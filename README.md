@@ -30,7 +30,6 @@ pip install -r requirements.txt
 # Ejecuta la aplicación:
 
 python aplicacion.py
-Capturas de Pantalla
 
 # Contribuciones
 Las contribuciones son bienvenidas. Abre un issue o envía un pull request para mejoras.
